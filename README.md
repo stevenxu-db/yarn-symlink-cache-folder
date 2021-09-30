@@ -1,0 +1,1 @@
+# yarn-symlink-cache-folder
